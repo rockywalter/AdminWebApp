@@ -3,23 +3,28 @@
 
       <!-- Sidebar - Brand -->
       <a class="sidebar-brand d-flex align-items-center justify-content-center" href="halls">
-      
-        <div class="sidebar-brand-text mx-3">SASIP INSTITUTE</div>
+      <img width="45px" src="img/logo2.png">
+        <div class="sidebar-brand-text mx-3">HUWAMARUWA</div>
       </a>
 
       <!-- Divider -->
       <hr class="sidebar-divider my-0">
 
-     
+      <!-- Nav Item - Dashboard -->
+      <li class="nav-item">
+        <a class="nav-link" href="index.php">
+          <i class="fas fa-fw fa-tachometer-alt"></i>
+          <span>Dashbord</span></a>
+      </li>
 
       <!-- Divider -->
       <hr class="sidebar-divider">
 
       <!-- Nav Item - Dashboard -->
       <li class="nav-item">
-        <a class="nav-link" href="halls">
+        <a class="nav-link" href="user.php">
           <i class="fas fa-fw fa-tachometer-alt"></i>
-          <span>Halls</span></a>
+          <span>Users</span></a>
       </li>
 
       <!-- Divider -->
@@ -27,9 +32,9 @@
 
        <!-- Nav Item - Dashboard -->
       <li class="nav-item">
-        <a class="nav-link" href="grade">
+        <a class="nav-link" href="bookadd.php">
           <i class="fas fa-fw fa-tachometer-alt"></i>
-          <span>Grade</span></a>
+          <span>Book Add</span></a>
       </li>
 
       <!-- Divider -->
@@ -37,9 +42,9 @@
 
        <!-- Nav Item - Dashboard -->
       <li class="nav-item">
-        <a class="nav-link" href="subject">
+        <a class="nav-link" href="categories.php">
           <i class="fas fa-fw fa-tachometer-alt"></i>
-          <span>Subject</span></a>
+          <span>Categories</span></a>
       </li>
 
       <!-- Divider -->
@@ -47,46 +52,13 @@
 
        <!-- Nav Item - Dashboard -->
       <li class="nav-item">
-        <a class="nav-link" href="teacher">
+        <a class="nav-link" href="complains.php">
           <i class="fas fa-fw fa-tachometer-alt"></i>
-          <span>Teacher</span></a>
+          <span>Complains</span></a>
       </li>
       
          <!-- Divider -->
-      <hr class="sidebar-divider">
-
-       <!-- Nav Item - Dashboard -->
-      <li class="nav-item">
-        <a class="nav-link" href="srouting">
-          <i class="fas fa-fw fa-tachometer-alt"></i>
-          <span>Subject Routing</span></a>
-      </li>
-        <hr class="sidebar-divider">
-  <!-- Divider -->
-   <!-- Nav Item - Dashboard -->
-      <li class="nav-item">
-        <a class="nav-link" href="student">
-          <i class="fas fa-fw fa-tachometer-alt"></i>
-          <span>Students</span></a>
-      </li>
-  
-      <!-- Divider -->
-        <hr class="sidebar-divider">
-        <!-- Nav Item - Dashboard -->
-      <li class="nav-item">
-        <a class="nav-link" href="exam">
-          <i class="fas fa-fw fa-tachometer-alt"></i>
-          <span>Exams</span></a>
-      </li>
-      
-      <hr class="sidebar-divider">   
-         <li class="nav-item">
-        <a class="nav-link" href="resultexam">
-          <i class="fas fa-fw fa-tachometer-alt"></i>
-          <span>Result of exams</span></a>
-      </li>
-      
-      
+     
       
        
       
